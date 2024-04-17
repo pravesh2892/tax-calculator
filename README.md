@@ -26,12 +26,12 @@ https://tax-calculator-two-blue.vercel.app/
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
 
-- ![image](https://github.com/pravesh2892/tax-calculator/assets/112716122/df66ad03-598a-4d04-87ac-392142dc8df2)
+ ![image](https://github.com/pravesh2892/tax-calculator/assets/112716122/df66ad03-598a-4d04-87ac-392142dc8df2)
 
-- # Usage
+ # Usage
 - Input the gross income, extra income, age group, and total deductions.
-Click the submit button to calculate the overall income and display the result.
-If any input is invalid, error messages will be shown to guide the user on how to correct the inputs.
+-Click the submit button to calculate the overall income and display the result.
+-If any input is invalid, error messages will be shown to guide the user on how to correct the inputs.
 
 
 
