@@ -1,14 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 
-:root {
-  --outline-color: #c6c0db;
-  --label-color: #394852;
-  --input-border: #767676;
-  --tooltiptext-background: #4c5d6b;
-  --text-color: white;
-  --button-bg: #6559f5;
-  --black: black;
-}
 
 * {
   box-sizing: border-box;
@@ -24,14 +15,14 @@ body {
   justify-content: center;
 }
 
-#app {
+#tax-app {
   width: 360px;
-  border: 1px solid var(--outline-color);
+  border: 1px solid #c6c0db;
   padding: 2rem;
   position: relative;
 }
 
-#app h1 {
+#tax-app h1 {
   text-align: center;
   margin-bottom: 0.8rem;
 }
@@ -41,7 +32,7 @@ label {
 }
 
 label span {
-  color: var(--label-color);
+  color: #394852;
   font-weight: 500;
 }
 
@@ -64,7 +55,7 @@ select {
 }
 
 .error-icon-container {
-  border: 1px solid var(--input-border);
+  border: 1px solid #767676;
   border-left: 0;
   width: 10%;
   height: 2.2rem;
@@ -85,7 +76,7 @@ select {
 }
 
 #select-container:focus-within {
-  outline: 2px solid var(--black);
+  outline: 2px solid black;
 }
 
 .select-label {
@@ -133,8 +124,8 @@ label .bi-question-circle {
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 125px;
-  background-color: var(--tooltiptext-background);
-  color: var(--text-color);
+  background-color: #4c5d6b;
+  color: white;
   border-radius: 6px;
   padding: 5px 0;
   position: absolute;
@@ -156,7 +147,7 @@ label .bi-question-circle {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: var(--tooltiptext-background) transparent transparent
+  border-color: #4c5d6b transparent transparent
     transparent;
 }
 
@@ -175,9 +166,9 @@ label .bi-question-circle {
 
 .submit,
 .close {
-  background: var(--button-bg);
+  background: #6559f5;
   border: none;
-  color: var(--text-color);
+  color: white;
   padding: 0.5rem;
   border-radius: 5px;
   margin-top: 1.5rem;
@@ -193,15 +184,16 @@ h2 {
   position: absolute;
   top: 7%;
   left: -30px;
-  background: var(--text-color);
+  background: white;
   width: 420px;
-  border: 1px solid var(--outline-color);
+  border: 1px solid #c6c0db;
   padding: 1.5rem;
   height: 380px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  color: var(--label-color);
+  color: #394852;
   display: none;
 }
+
