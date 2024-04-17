@@ -1,7 +1,8 @@
 # Tax Calculator
 
 This Tax Calculator is a web application designed to help users calculate their income tax based on specified criteria. It allows users to input their gross annual income, extra income, deductions, and age to determine their tax liability according to a predefined formula.
-
+# Hosted link
+https://tax-calculator-two-blue.vercel.app/
 # References & Requirements
 - The tax calculation works based on this formula -
     - Overall income (after deductions) under 8 (≤) Lakhs is not taxed.
