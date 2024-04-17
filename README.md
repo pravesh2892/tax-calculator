@@ -28,3 +28,10 @@ https://tax-calculator-two-blue.vercel.app/
 
 - ![image](https://github.com/pravesh2892/tax-calculator/assets/112716122/df66ad03-598a-4d04-87ac-392142dc8df2)
 
+- # Usage
+- Input the gross income, extra income, age group, and total deductions.
+Click the submit button to calculate the overall income and display the result.
+If any input is invalid, error messages will be shown to guide the user on how to correct the inputs.
+
+
+
