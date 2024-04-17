@@ -24,3 +24,6 @@ This Tax Calculator is a web application designed to help users calculate their 
     - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
+
+- ![image](https://github.com/pravesh2892/tax-calculator/assets/112716122/df66ad03-598a-4d04-87ac-392142dc8df2)
+
