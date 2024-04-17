@@ -36,8 +36,8 @@ https://tax-calculator-two-blue.vercel.app/
 # Installation
 To run your application locally, follow these steps:
 
-Download the Code: Download the HTML, CSS, and JavaScript files to your local machine.
+1.# Download the Code: Download the HTML, CSS, and JavaScript files to your local machine.
 Open HTML File: Open the HTML file in your preferred web browser. You can do this by double-clicking the HTML file or right-clicking and selecting "Open with" and choosing your web browser.
-Ensure Internet Connection: Since your application uses Bootstrap icons via CDN links, ensure that you have an internet connection while running the application locally. If you don't have an internet connection, the icons may not be visible.
-Interact with the Application: Once the HTML file is opened in your web browser, you can interact with the tax calculator just like you would on a live website. Input values, click the submit button, and verify that the calculations and error messages work as expected.
+2. #Ensure Internet Connection: Since your application uses Bootstrap icons via CDN links, ensure that you have an internet connection while running the application locally. If you don't have an internet connection, the icons may not be visible.
+3. #Interact with the Application: Once the HTML file is opened in your web browser, you can interact with the tax calculator just like you would on a live website. Input values, click the submit button, and verify that the calculations and error messages work as expected.
 
